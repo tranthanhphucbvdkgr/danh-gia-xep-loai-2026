@@ -1,7 +1,7 @@
 {
  "v": 1,
  "app": "Đánh giá xếp loại 2026 - TTYT Giồng Riềng",
- "updated": "2026-11-27T04:55:55.156653Z",
+ "updated": "2026-11-27T05:17:49.855Z",
  "users": [
   {
    "u": "ttphuc",
@@ -10,9 +10,9 @@
    "khoa": "",
    "active": true,
    "created": "2026-11-27T04:55:55.156683Z",
-   "salt": "CgeDQfkWhd7K3ZeWdUVZlQ==",
+   "salt": "x8H6gVCIV7HP5yiWWtKs3w==",
    "iter": 310000,
-   "wk": "goe+YB514c8XKjbexVSW9ZukxFQGAqtYNQLCsWnMm91YyOIskc2bQRJTfMjrHLiv/aUFCgAh6onKH4YE"
+   "wk": "TZXU4ikwyN3ngsiTTM1jk7HnC7iUgUHTBSqDxj1vMahOI0Ay5IVzhzzNbtavRyimHvpkIERr/l4PxvvH"
   }
  ]
 }
