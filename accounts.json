@@ -1,0 +1,18 @@
+{
+ "v": 1,
+ "app": "Đánh giá xếp loại 2026 - TTYT Giồng Riềng",
+ "updated": "2026-11-27T04:55:55.156653Z",
+ "users": [
+  {
+   "u": "ttphuc",
+   "name": "Trần Thanh Phúc",
+   "role": "admin",
+   "khoa": "",
+   "active": true,
+   "created": "2026-11-27T04:55:55.156683Z",
+   "salt": "CgeDQfkWhd7K3ZeWdUVZlQ==",
+   "iter": 310000,
+   "wk": "goe+YB514c8XKjbexVSW9ZukxFQGAqtYNQLCsWnMm91YyOIskc2bQRJTfMjrHLiv/aUFCgAh6onKH4YE"
+  }
+ ]
+}
