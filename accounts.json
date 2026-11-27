@@ -1,7 +1,7 @@
 {
  "v": 1,
  "app": "Đánh giá xếp loại 2026 - TTYT Giồng Riềng",
- "updated": "2026-11-27T05:34:14.614Z",
+ "updated": "2026-11-27T05:49:38.195Z",
  "users": [
   {
    "u": "ttphuc",
@@ -35,6 +35,17 @@
    "salt": "racGdgXSORtUvOIhIKsGeQ==",
    "iter": 310000,
    "wk": "7eLXXZJMb1AUFnafqwFYBjsornVRfPsJSzHBYzd7s/agq2ZG7xWaMv4Bp4ZlQKltBcU9RAydit7v52vp"
+  },
+  {
+   "u": "ltlam",
+   "name": "Lý Thanh Lam",
+   "role": "user",
+   "khoa": "Phòng Hành chính quản trị",
+   "active": true,
+   "created": "2026-11-27T05:49:36.524Z",
+   "salt": "oTCqAz3Eyv9N2+R/udtZpQ==",
+   "iter": 310000,
+   "wk": "FrwnyA8LeuWHkW9u1nF84yejtUVRt1cIxHXdYuY1Xwb6UfwcXh7DCYeapkAc8kGe/6f9VttUFrCDTIFj"
   }
  ]
 }
