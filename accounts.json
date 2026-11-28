@@ -1,7 +1,7 @@
 {
  "v": 1,
  "app": "Đánh giá xếp loại 2026 - TTYT Giồng Riềng",
- "updated": "2026-11-27T06:26:16.624Z",
+ "updated": "2026-11-28T03:15:46.736Z",
  "users": [
   {
    "u": "ttphuc",
@@ -18,7 +18,7 @@
    "u": "ttphuc2",
    "name": "Trần Thanh Phúc",
    "role": "user",
-   "khoa": "Khoa Mắt",
+   "khoa": "",
    "active": true,
    "created": "2026-11-27T05:22:58.894Z",
    "salt": "BeWvxG3j5O7vdTzSNjO+UA==",
